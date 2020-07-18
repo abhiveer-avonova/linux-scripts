@@ -1,3 +1,4 @@
 echo "This is my first script"
 echo "I am saving this for future preference"
 sh 'chown 775 /dev'
+sh 'chgrp admin:trevor'
