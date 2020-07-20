@@ -3,3 +3,4 @@ echo "I am saving this for future preference"
 sh 'chown 775 /dev'
 sh 'chgrp admin:trevor'
 echo 'Welcome user!'
+echo "Please enter your name: %d"
